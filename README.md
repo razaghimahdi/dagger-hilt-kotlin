@@ -36,8 +36,8 @@ Unlike traditional Dagger,
 
 if you annotate a dependency with singleton that dependency is gonna live as long
 
-<img src="screenshots/scope.png" width="300">
-<img src="screenshots/scope2.png" width="300">
+<img src="screenshots/scope.PNG" width="300">
+<img src="screenshots/scope2.PNG" width="300">
 
 
 
